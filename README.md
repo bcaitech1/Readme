@@ -61,3 +61,16 @@
 ### P Stage4 : 모델최적화 (CPU,GPU 향 최적화)
 작은 규모의 Auto ML을 활용하여 작고 빠른 이미지 분류 모델을 만드는 프로젝트입니다. 제한된 자원을 가지고 이미지에서 재활용 쓰레기를 분류하는 AI를 경량화합니다.
 - Metric : MACs, F1
+
+-----------------------
+
+* 참고 : Repository 명  
+**p1-img** 이미지 분류 (Image Classification)
+**p2-tab** 정형 데이터 분류 (Tabular Classification)
+**P2-klue** 한국어 언어 모델 학습 및 다중 과제 튜닝 (KLUE) 
+**p3-ims-obd** 객체 영역 구분 (Image Segmentation) & 객체 검출 (Object Detection) 
+**p3-mrc** 기계 독해 (Machine Reading Comprehension) 
+**p3-dst** Dialogue Stage Tracking 
+**p4-ocr** & **p4-fr** 수식 인식기
+**p4-opt** 모델 최적화 (CPU,GPU향 최적화) 
+**p4-dkt** DKT (Deep Knowledge Tracing)
