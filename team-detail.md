@@ -22,6 +22,14 @@
 | P3-mrc-8  | [TAJO                             ](https://github.com/bcaitech1/p3-mrc-tajo                                 ) |
 | P3-mrc-9  | [VumBleBot                        ](https://github.com/bcaitech1/p3-mrc-vumblebot                            ) |
 | P3-seg-1  | [Simple                           ](https://github.com/bcaitech1/p3-ims-obd-simple                           ) |
+| P3-seg-2  | [garbagecollector                 ](https://github.com/bcaitech1/p3-ims-obd-garbagecollector                 ) |
+| P3-seg-3  | [obD-seg-3                        ](https://github.com/bcaitech1/p3-ims-obd-obd-seg-3                        ) |
+| P3-seg-4  | [PepsiMintChocolatePineapplePizza ](https://github.com/bcaitech1/p3-ims-obd-pepsimintchocolatepineapplepizza ) |
+| P3-seg-5  | [ConnectNet                       ](https://github.com/bcaitech1/p3-ims-obd-connectnet                       ) |
+| P3-seg-6  | [NJYS                             ](https://github.com/bcaitech1/p3-ims-obd-njys                             ) |
+| P3-seg-7  | [seg-7                            ](https://github.com/bcaitech1/p3-ims-obd-p3-seg-7                         ) |
+| P3-seg-8  | [seg_8                            ](https://github.com/bcaitech1/p3-ims-obd-seg_8                            ) |
+| P3-seg-9  | [Doggum                           ](https://github.com/bcaitech1/p3-ims-obd-doggum                           ) |
 | P3-seg-10 | [we_must_win                      ](https://github.com/bcaitech1/p3-ims-obd-we_must_win                      ) |
 | P3-seg-11 | [Eagle Eye                        ](https://github.com/bcaitech1/p3-ims-obd-eagle-eye                        ) |
 | P3-seg-12 | [HanSarang                        ](https://github.com/bcaitech1/p3-ims-obd-hansarang                        ) |
@@ -32,13 +40,5 @@
 | P3-seg-17 | [code-chaser                      ](https://github.com/bcaitech1/p3-ims-obd-code-chaser                      ) |
 | P3-seg-18 | [MultiHead_Ensemble               ](https://github.com/bcaitech1/p3-ims-obd-multihead_ensemble               ) |
 | P3-seg-19 | [P3-seg-19                        ](https://github.com/bcaitech1/p3-ims-obd-p3-seg-19                        ) |
-| P3-seg-2  | [garbagecollector                 ](https://github.com/bcaitech1/p3-ims-obd-garbagecollector                 ) |
 | P3-seg-20 | [Seg-20                           ](https://github.com/bcaitech1/p3-ims-obd-seg-20                           ) |
 | P3-seg-21 | [SEED21                           ](https://github.com/bcaitech1/p3-ims-obd-seed21                           ) |
-| P3-seg-3  | [obD-seg-3                        ](https://github.com/bcaitech1/p3-ims-obd-obd-seg-3                        ) |
-| P3-seg-4  | [PepsiMintChocolatePineapplePizza ](https://github.com/bcaitech1/p3-ims-obd-pepsimintchocolatepineapplepizza ) |
-| P3-seg-5  | [ConnectNet                       ](https://github.com/bcaitech1/p3-ims-obd-connectnet                       ) |
-| P3-seg-6  | [NJYS                             ](https://github.com/bcaitech1/p3-ims-obd-njys                             ) |
-| P3-seg-7  | [seg-7                            ](https://github.com/bcaitech1/p3-ims-obd-p3-seg-7                         ) |
-| P3-seg-8  | [seg_8                            ](https://github.com/bcaitech1/p3-ims-obd-seg_8                            ) |
-| P3-seg-9  | [Doggum                           ](https://github.com/bcaitech1/p3-ims-obd-doggum                           ) |
