@@ -2,6 +2,8 @@
 
 ## 부스트캠프 AI Tech 팀별 repo 목록
 
+### P3 - 대화 상태 추적(DST)
+
 | 팀 ID      | 팀 이름                             |
 |-----------|------------------------------------|
 | P3-dst-1  | [Coffee Factory                   ](https://github.com/bcaitech1/p3-dst-coffee-factory                       ) |
@@ -12,6 +14,13 @@
 | P3-dst-6  | [Yuk                              ](https://github.com/bcaitech1/p3-dst-yuk                                  ) |
 | P3-dst-7  | [Chatting Day                     ](https://github.com/bcaitech1/p3-dst-chatting-day                         ) |
 | P3-dst-8  | [descente                         ](https://github.com/bcaitech1/p3-dst-descente                             ) |
+
+---------------
+
+### P3 - 기계 독해(MRC)
+
+| 팀 ID      | 팀 이름                             |
+|-----------|------------------------------------|
 | P3-mrc-1  | [GiGoeDokHae                      ](https://github.com/bcaitech1/p3-mrc-gigoedokhae                          ) |
 | P3-mrc-2  | [jobplz                           ](https://github.com/bcaitech1/p3-mrc-jobplz                               ) |
 | P3-mrc-3  | [Dok                              ](https://github.com/bcaitech1/p3-mrc-dok                                  ) |
@@ -21,6 +30,13 @@
 | P3-mrc-7  | [luckyse7en                       ](https://github.com/bcaitech1/p3-mrc-mrc-7-luckyse7en                     ) |
 | P3-mrc-8  | [TAJO                             ](https://github.com/bcaitech1/p3-mrc-tajo                                 ) |
 | P3-mrc-9  | [VumBleBot                        ](https://github.com/bcaitech1/p3-mrc-vumblebot                            ) |
+
+---------------
+
+### P3 - 객체 영역 구분 및 객체 검출(seg)
+
+| 팀 ID      | 팀 이름                             |
+|-----------|------------------------------------|
 | P3-seg-1  | [Simple                           ](https://github.com/bcaitech1/p3-ims-obd-simple                           ) |
 | P3-seg-2  | [garbagecollector                 ](https://github.com/bcaitech1/p3-ims-obd-garbagecollector                 ) |
 | P3-seg-3  | [obD-seg-3                        ](https://github.com/bcaitech1/p3-ims-obd-obd-seg-3                        ) |
