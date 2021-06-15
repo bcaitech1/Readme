@@ -1,5 +1,3 @@
-
-
 ## 부스트캠프 AI Tech 팀별 repo 목록
 
 ### P3 - 대화 상태 추적(DST)
@@ -58,3 +56,7 @@
 | P3-seg-19 | [P3-seg-19                        ](https://github.com/bcaitech1/p3-ims-obd-p3-seg-19                        ) |
 | P3-seg-20 | [Seg-20                           ](https://github.com/bcaitech1/p3-ims-obd-seg-20                           ) |
 | P3-seg-21 | [SEED21                           ](https://github.com/bcaitech1/p3-ims-obd-seed21                           ) |
+
+------------------------
+
+### P4는 곧 공개될 예정입니다
